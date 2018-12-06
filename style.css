@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+.field{
+  position: absolute;
+  width:60%;
+  height:80%;
+  left:5%;
+  top:10%;
+  border:1px solid black;
+}
+.inputs{
+  position: absolute;
+  right:5%;
+  height:80%;
+  width:28%;
+  top:10%;
+  border:1px solid black;
+}
+input{
+  margin-left:6%;
+  margin-top:8%;
+}
+#ball{
+    box-shadow: -1px 1px 5px 9px rgba(0,0,0,0.75);
+}
